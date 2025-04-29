@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, eu sou o Felipe Capello</h1>
 - 🌱 Estou aprendendo sobre **Python, Data Science, Power BI, SQL e Spark**
 
+- 👨‍💻 Aprendendo sobre o mundo de dados e aprendendo muito sobre a Ciência de dados
+  
 - 📫 Você me acha através do e-mail **felipecapello7@gmail.com**
 
 - 📄 Conheça um pouco sobre minhas experiências [https://www.linkedin.com/in/felipe-capello-2312b8204/](https://www.linkedin.com/in/felipe-capello-2312b8204/)
