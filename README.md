@@ -1,4 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Felipe Capello</h1>
+
 - 🌱 Estou aprendendo sobre **Python, Data Science, Power BI, SQL e Spark**
 
 - 👨‍💻 Aprendendo sobre o mundo de dados e aprendendo muito sobre a Ciência de dados
