@@ -6,8 +6,6 @@
   
 - 📫 Você me acha através do e-mail **felipecapello7@gmail.com**;
 
-- 📄 Conheça um pouco sobre minhas experiências [https://www.linkedin.com/in/felipe-capello/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipecapello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipecapello" height="30" width="40" /></a>
