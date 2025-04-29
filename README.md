@@ -6,7 +6,7 @@
   
 - 📫 Você me acha através do e-mail **felipecapello7@gmail.com**;
 
-- 📄 Conheça um pouco sobre minhas experiências [https://www.linkedin.com/in/felipe-capello-2312b8204/)
+- 📄 Conheça um pouco sobre minhas experiências [https://www.linkedin.com/in/felipe-capello/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
